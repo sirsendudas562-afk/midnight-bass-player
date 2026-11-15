@@ -1,0 +1,19 @@
+{
+  "name": "midnight-bass-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MIDNIGHT BASS Music Player Android wrapper project",
+  "scripts": {
+    "build": "echo Static web app: no build step required",
+    "android:add": "cap add android",
+    "android:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

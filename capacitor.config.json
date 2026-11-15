@@ -1,0 +1,6 @@
+{
+  "appId": "com.midnightbass.player",
+  "appName": "MIDNIGHT BASS",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
